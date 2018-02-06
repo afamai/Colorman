@@ -1,7 +1,5 @@
 # Colorman
-2D Platformer Game 
-
-This is a simple 2D platformer game.
+A simple 2D Platformer Game.
 
 ## To run it
 1. Clone the repository
